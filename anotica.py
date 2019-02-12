@@ -12,7 +12,7 @@ def main():
     |$| |$|$| |$|$(_)$||$| |$|$|    |$(_|$|
     \$| |$/$| |$|\$$$$/\$$$|$|\$$$$ \$$,$$|
 
-    =[ ~ | Created by: Spirit / Davuzk [Secret Services] | ~ ]=
+    =[ ~ | Created by: Struct | ~ ]=
 
 	'''
 	print '''
